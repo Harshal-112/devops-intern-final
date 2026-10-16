@@ -1,7 +1,7 @@
 variable "image" {
   type        = string
-  description = "Container image to deploy"
-  default     = "nginx:1.27-alpine"
+  description = "GHCR image to deploy"
+  default     = "ghcr.io/harshal-112/devops-intern-final:latest"
 }
 
 job "nginx-app" {
