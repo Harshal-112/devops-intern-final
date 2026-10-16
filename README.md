@@ -2,9 +2,9 @@
 
 [![CI/CD](https://github.com/Harshal-112/devops-intern-final/actions/workflows/ci.yml/badge.svg)](https://github.com/Harshal-112/devops-intern-final/actions/workflows/ci.yml)
 
-**Candidate:** Harshal Nerkar  
-**Assessment date:** 16 October 2026  
-**Repository:** [devops-intern-final](https://github.com/Harshal-112/devops-intern-final)  
+**Candidate:** Harshal Nerkar
+**Assessment date:** 16 October 2026
+**Repository:** [devops-intern-final](https://github.com/Harshal-112/devops-intern-final)
 **Release tag:** `v1.0.0`
 
 ## 1. Project Overview
@@ -477,5 +477,3 @@ Confirm that Promtail can access the Docker socket and container logs, then gene
 - [x] Basic Loki log ingestion verified in Grafana Explore.
 - [x] README evidence and screenshot references checked against a fresh clone.
 - [x] Final assessment submission verified.
-
-
